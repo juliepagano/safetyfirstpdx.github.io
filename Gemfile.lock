@@ -149,6 +149,3 @@ PLATFORMS
 DEPENDENCIES
   github-pages (~> 104)
   jekyll-livereload
-
-BUNDLED WITH
-   1.13.6
